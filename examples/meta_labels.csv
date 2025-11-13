@@ -1,0 +1,11 @@
+case_id,slide_id,class,label
+0,sample0,class0,0
+1,sample1,class1,1
+2,sample2,class0,0
+3,sample3,class0,0
+4,sample4,class1,1
+5,sample5,class0,0
+6,sample6,class1,1
+7,sample7,class1,1
+8,sample8,class0,0
+9,sample9,class1,1
